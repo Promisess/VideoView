@@ -11,6 +11,7 @@
 
     <VideoView
         android:id="@+id/videoview"
+        android:background="#0000"
         android:layout_width="0dp"
         android:layout_weight="1"
         android:layout_height="fill_parent" />
